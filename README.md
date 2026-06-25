@@ -30,7 +30,7 @@ PixleRAG sidesteps all of this by treating every page as an image from the start
 | Invoices & forms | Preserves layout and spatial structure |
 | Technical reports | Retrieves the exact page with the relevant diagram |
 | Mixed-content documents | Text and visuals treated uniformly |
-| OCR evaluation | Compare retrieved answers against ground truth |
+| evaluation | Compare retrieved answers against ground truth |
 
 ---
 
