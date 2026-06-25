@@ -1,0 +1,16 @@
+# PixleRAG notebook requirements
+# Run automatically by Cell 1: %pip install -q -r requirements.txt
+
+faiss-cpu>=1.7.4
+pymupdf>=1.23.0
+openai>=1.30.0
+requests>=2.31.0
+Pillow>=10.0.0
+numpy>=1.26.0
+python-dotenv>=1.0.0
+pyyaml>=6.0
+
+# Embedding model (runs on Colab GPU)
+transformers>=4.45.0
+accelerate>=0.30.0
+qwen-vl-utils>=0.0.8
