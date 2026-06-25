@@ -63,7 +63,6 @@ cp .env.example .env
 | `OPENAI_API_KEY` | Yes | [platform.openai.com/api-keys](https://platform.openai.com/api-keys) |
 | `JINA_API_KEY` | Optional | [jina.ai/reranker](https://jina.ai/reranker) (free tier available) |
 
-> If `JINA_API_KEY` is left empty, the pipeline falls back to gpt-4o reranking.
 
 ### 2. Upload to Google Drive
 
